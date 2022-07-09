@@ -27,3 +27,8 @@ https://github.com/EricZimmerman/KapeFiles
 Velociraptor - {$DEFINE}
 
 https://github.com/Velocidex/velociraptor
+
+
+
+
+[//]: # (notes: use "- {$DEFINE}" appended to a title to notate the need to come back at a later date and write a small summary of the tool)
