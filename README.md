@@ -28,6 +28,8 @@ Velociraptor - {$DEFINE}
 
 https://github.com/Velocidex/velociraptor
 
+https://lolbas-project.github.io/
+
 
 
 
