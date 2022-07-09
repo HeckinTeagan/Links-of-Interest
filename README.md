@@ -24,3 +24,6 @@ KAPE - {$DEFINE}
 
 https://github.com/EricZimmerman/KapeFiles
 
+Velociraptor - {$DEFINE}
+
+https://github.com/Velocidex/velociraptor
