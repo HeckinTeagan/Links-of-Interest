@@ -30,7 +30,7 @@ https://github.com/Velocidex/velociraptor
 
 https://lolbas-project.github.io/
 
-
+https://github.com/SigmaHQ/sigma
 
 
 [//]: # (notes: use "- {$DEFINE}" appended to a title to notate the need to come back at a later date and write a small summary of the tool)
