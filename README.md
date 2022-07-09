@@ -16,8 +16,6 @@ Inside FOR608: Enterprise-Class Incident Response & Threat Hunting - Course Prev
 
 [![course thumbnail](https://img.youtube.com/vi/3hDrPTTGEAU/hqdefault.jpg)](https://www.youtube.com/watch?v=3hDrPTTGEAU)
 
-https://www.youtube.com/watch?v=3hDrPTTGEAU
-
 CyLR - {$DEFINE}
 
 https://github.com/orlikoski/CyLR
