@@ -9,3 +9,5 @@ https://tria.ge/dashboard
 https://www.youtube.com/watch?v=3hDrPTTGEAU
 
 https://github.com/Johnng007/Live-Forensicator
+
+https://malpedia.caad.fkie.fraunhofer.de/
