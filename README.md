@@ -10,6 +10,10 @@ https://github.com/Johnng007/Live-Forensicator
 
 https://malpedia.caad.fkie.fraunhofer.de/
 
+DetectionLab training and lab creation scripts and guides
+
+https://detectionlab.network/introduction/
+
 #### FOR608 Tools
 
 Inside FOR608: Enterprise-Class Incident Response & Threat Hunting - Course Preview
