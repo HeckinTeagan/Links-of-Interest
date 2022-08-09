@@ -32,6 +32,10 @@ Velociraptor - {$DEFINE}
 
 https://github.com/Velocidex/velociraptor
 
+https://tryhackme.com/room/velociraptorhp
+
+
+
 https://lolbas-project.github.io/
 
 https://github.com/SigmaHQ/sigma
