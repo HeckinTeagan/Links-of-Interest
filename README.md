@@ -14,6 +14,10 @@ DetectionLab training and lab creation scripts and guides
 
 https://detectionlab.network/introduction/
 
+Building an Open Source Threat Intelligence Platform with STIX
+
+[![course thumbnail](https://img.youtube.com/vi/xuiYorG8-1Q/hqdefault.jpg)](https://www.youtube.com/watch?v=xuiYorG8-1Q)
+
 #### FOR608 Tools
 
 Inside FOR608: Enterprise-Class Incident Response & Threat Hunting - Course Preview
