@@ -22,6 +22,11 @@ Through the Eyes of the Adversary: How to Build a Threat Intel Program
 
 [![course thumbnail](https://img.youtube.com/vi/-48H9AOog7g/hqdefault.jpg)](https://www.youtube.com/watch?v=-48H9AOog7g)
 
+ACTIVE DIRECTORY #00 Creating our Server + Workstation Virtual Environment
+
+[![course thumbnail](https://img.youtube.com/vi/pKtDQtsubio/hqdefault.jpg)](https://www.youtube.com/watch?v=pKtDQtsubio)
+
+
 #### FOR608 Tools
 
 Inside FOR608: Enterprise-Class Incident Response & Threat Hunting - Course Preview
