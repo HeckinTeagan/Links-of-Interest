@@ -18,6 +18,10 @@ Building an Open Source Threat Intelligence Platform with STIX
 
 [![course thumbnail](https://img.youtube.com/vi/xuiYorG8-1Q/hqdefault.jpg)](https://www.youtube.com/watch?v=xuiYorG8-1Q)
 
+Through the Eyes of the Adversary: How to Build a Threat Intel Program
+
+[![course thumbnail](https://img.youtube.com/vi/-48H9AOog7g/hqdefault.jpg)](https://www.youtube.com/watch?v=-48H9AOog7g)
+
 #### FOR608 Tools
 
 Inside FOR608: Enterprise-Class Incident Response & Threat Hunting - Course Preview
