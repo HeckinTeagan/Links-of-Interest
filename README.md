@@ -31,6 +31,9 @@ how to unravel Cobalt Strike and deny the adversary further access
 
 https://threadreaderapp.com/thread/1559482618873356289.html
 
+How to Create a MISP Feed from a Greynoise Trend 2022-08-03
+
+https://droogy.tech/post/gntrendsandmisp/
 
 #### FOR608 Tools
 
