@@ -27,6 +27,10 @@ ACTIVE DIRECTORY #00 Creating our Server + Workstation Virtual Environment
 [![course thumbnail](https://img.youtube.com/vi/pKtDQtsubio/hqdefault.jpg)](https://www.youtube.com/watch?v=pKtDQtsubio)
 
 
+how to unravel Cobalt Strike and deny the adversary further access
+https://threadreaderapp.com/thread/1559482618873356289.html
+
+
 #### FOR608 Tools
 
 Inside FOR608: Enterprise-Class Incident Response & Threat Hunting - Course Preview
