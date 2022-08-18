@@ -28,6 +28,7 @@ ACTIVE DIRECTORY #00 Creating our Server + Workstation Virtual Environment
 
 
 how to unravel Cobalt Strike and deny the adversary further access
+
 https://threadreaderapp.com/thread/1559482618873356289.html
 
 
