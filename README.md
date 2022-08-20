@@ -37,6 +37,8 @@ https://droogy.tech/post/gntrendsandmisp/
 
 https://malapi.io/ - MalAPI.io maps Windows APIs to common techniques used by malware.
 
+[![course thumbnail](https://img.youtube.com/vi/ECuqb5Tv9qI/hqdefault.jpg)](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+
 
 #### FOR608 Tools
 
