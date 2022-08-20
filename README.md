@@ -35,6 +35,9 @@ How to Create a MISP Feed from a Greynoise Trend 2022-08-03
 
 https://droogy.tech/post/gntrendsandmisp/
 
+https://malapi.io/ - MalAPI.io maps Windows APIs to common techniques used by malware.
+
+
 #### FOR608 Tools
 
 Inside FOR608: Enterprise-Class Incident Response & Threat Hunting - Course Preview
