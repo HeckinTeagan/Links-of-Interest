@@ -39,6 +39,7 @@ https://malapi.io/ - MalAPI.io maps Windows APIs to common techniques used by ma
 
 [![course thumbnail](https://img.youtube.com/vi/ECuqb5Tv9qI/hqdefault.jpg)](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 
+https://www.cisecurity.org/insights/blog/threat-integration-lessons-of-indicator-and-incident-exchange Threat Integration: Lessons of Indicator & Incident Exchange
 
 #### FOR608 Tools
 
