@@ -41,8 +41,10 @@ https://malapi.io/ - MalAPI.io maps Windows APIs to common techniques used by ma
 
 https://www.cisecurity.org/insights/blog/threat-integration-lessons-of-indicator-and-incident-exchange Threat Integration: Lessons of Indicator & Incident Exchange
 
-https://www.ventoy.net/en/index.html - GRUB Based boot loader for managing multiple images on bootable USB
+https://www.ventoy.net/en/index.htmlGRUB - Based boot loader for managing multiple images on bootable USB
+
 ---
+
 #### FOR608 Tools
 
 Inside FOR608: Enterprise-Class Incident Response & Threat Hunting - Course Preview
