@@ -43,6 +43,7 @@ https://www.cisecurity.org/insights/blog/threat-integration-lessons-of-indicator
 
 https://www.ventoy.net/en/index.htmlGRUB - Based boot loader for managing multiple images on bootable USB
 
+https://tb.rg-adguard.net/public.php - a project that will help you without tedious search and registration to download Windows operating systems, Office applications, language packs, and virtual machines directly from Microsoft servers. 
 ---
 
 #### FOR608 Tools
